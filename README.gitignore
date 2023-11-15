@@ -1,0 +1,13 @@
+# Meu Aplicativo de Signos em React Native
+
+Bem-vindo ao meu aplicativo de signos em React Native! Este aplicativo permite que você descubra seu signo com base na data de nascimento.
+
+## Como Usar
+
+### Pré-requisitos
+- Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+
+### Instalação
+1. Clone este repositório em sua máquina local.
+   ```bash
+   git clone https://github.com/RosaM303/reactSign.git
